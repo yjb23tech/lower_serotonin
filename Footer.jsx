@@ -3,7 +3,6 @@ const Footer = () => {
         <footer>
             <small>What A Life Records</small>
         </footer>
-
     );
 };
 
