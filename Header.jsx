@@ -1,7 +1,10 @@
+import logo from "./react-logo.png"
+
 function Header() {
     return (
         <header>
             <nav className="nav">
+                <img src= {logo} className="nav-logo"/>
                 <ul className="nav-items">
                     <li>Pricing</li>
                     <li>About</li>
